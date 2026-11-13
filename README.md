@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,10,4&height=60&section=footer" width="100%" />
+</p>
+
 # LoanFlow LMS
 
 A web-based Loan Management System built with React, TypeScript, Tailwind CSS, and an Express backend. It is designed around Sri Lankan Rupee (`Rs.` / LKR) loan workflows and covers both the customer side (loan discovery, calculation, application, and tracking) and the staff admin side (review, approval, disbursement, and repayments).
